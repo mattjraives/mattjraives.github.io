@@ -1,0 +1,10 @@
+{{ range . }}
+  <section>
+    <div class="heading-line"> 
+      <span>{{ .title }}</span> <span>{{ .year }}</span>
+    </div>
+    <span>
+      {{ delimit .authors ", " }}
+    </span>
+  </section>
+{{ end }}

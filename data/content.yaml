@@ -1,0 +1,60 @@
+sections:
+  - heading: Research Goals
+    body: Using state-of-the-art magnetohydrodynamics models to understand astrophysical outflows in extreme environments.
+
+  - heading: Employment
+    subsections:
+      - heading:
+          label: CTAC Postdoctoral Fellowship
+          startdate: Sep 2021
+          degree: Carnegie Observatories, Pasadena, CA
+
+  - heading: Education
+    subsections:
+      - heading:
+          label: The Ohio State University
+          startdate: Aug 2015
+          enddate: Aug 2021
+          degree: PhD, MSc, Astronomy
+          detail: Dissertation --- the thing
+      - heading:
+          label: California Institute of Technology
+          startdate: Sep 2011
+          enddate: June 2015
+          degree: BSc, Astrophysics
+          detail: Thesis --- the other thing
+          
+  - heading: Honors
+    subsections:
+     - heading:
+        label: Dean's Distinguished Fellowship
+        year: 2015 - 2016 and 2020 - 2021
+  
+  - heading: Teaching Experience
+    subsections:
+     - heading:
+        label: Head TA
+        startdate: 2017
+        enddate: 2018
+        detail: The Ohio State University
+     - heading:
+        label: Graduate TA
+        startdate: 2016
+        enddate: 2018
+        degree: Astronomy 1101, 1102, 1140, 1141, 1142
+        detail: The Ohio State University 
+        
+  - heading: Skills
+    subsections:
+    - heading:
+        label: Languages
+      points:
+        - C++
+        - Python 3.x
+        - Mathematica
+        - LaTeX
+    - heading:
+        label: Simulation
+      points:
+        - Athena++
+        - FLASH 4.x

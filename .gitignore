@@ -1,0 +1,10 @@
+*.lock
+/resources
+
+*\#
+*~
+
+## THEME
+themes/hugo-theme-monochrome/exampleSite
+themes/hugo-theme-monochrome/theme.toml
+themes/hugo-theme-monochrome/i18n

@@ -1,0 +1,14 @@
+{{ range . }}
+  <section>
+    <div class="heading-line"> 
+      <span>{{ .title }}</span> <span>{{ .year }}</span>
+    </div>
+    <div><em>{{ delimit .authors ", " }}</em></div>
+    <div>
+      <a href="https://arxiv.org/abs/{{ .arxiv }}" class="button button1">ArXiV</a>
+      {{ if .ads }}
+        <a href="https://doi.org/{{ .ads }}" class="button button1"> Journal </a>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

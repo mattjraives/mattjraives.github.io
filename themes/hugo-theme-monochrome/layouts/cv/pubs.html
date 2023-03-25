@@ -1,0 +1,17 @@
+{{- define "content" -}}
+
+{{ with .Site.Data.papers }}
+  <div class="box">
+    <div class="wrap">
+      <h1> First Author Papers </h1>
+      {{ partial "bibitem.html" .firstauthor }}
+    </div>
+    
+    <div class="wrap">
+      <h1> Contributing Author Papers </h1>
+      {{ partial "bibitem.html" .coauthor }}
+    </div>
+  </div>
+{{ end }}
+
+{{- end -}}

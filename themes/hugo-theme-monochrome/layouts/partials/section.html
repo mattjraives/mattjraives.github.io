@@ -1,0 +1,23 @@
+<section>
+  <h1>{{ .heading }}</h1>
+  <p>{{ .body }}</p>
+  {{ partial "bullet-list.html" .points }}
+  {{ range .subsections }}
+    {{ with .heading }}
+      <div class="heading-line">
+        <span>{{ .label }}</span>
+        {{ if .startdate }}
+          <span>
+            {{ .startdate }} -
+            {{ if .enddate }}{{ .enddate }}{{ else }}Current{{ end }}
+          </span>
+        {{ else }}
+          <span>{{ .year }}</span>
+        {{ end }}
+      </div>
+      <div>{{ .degree }}</div>
+      <div><em>{{ if .detail }}{{ .detail }}{{ end }}</em></div>
+    {{ end }}
+    <div>{{ partial "bullet-list.html" .points }}</div>
+  {{ end }}
+</section>

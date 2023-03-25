@@ -1,0 +1,20 @@
+[[navbar]]
+identifier = "CV"
+name = "CV"
+title = "CV"
+url = "/cv/"
+weight = 1
+
+[[navbar]]
+identifier = "pub"
+name = "Publications"
+title = "Publications"
+url = "/pubs/"
+weight = 2
+
+[[navbar]]
+identifier = "hob"
+name = "Hobbies"
+title = "hobbies"
+url = "/hobbies/"
+weight = 3

@@ -1,0 +1,4 @@
+baseURL = 'mattjraives.github.io'
+languageCode = 'en-us'
+title = 'Matthias J. Raives'
+theme = "hugo-theme-monochrome"

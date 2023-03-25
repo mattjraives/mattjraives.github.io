@@ -1,0 +1,59 @@
+firstauthor:
+  - paper:
+    title: Magnetized Rotating Isothermal Winds
+    authors:
+      - Matthias J. Raives
+      - Matthew S. B. Coleman
+      - Todd A. Thompson
+    year: Submitted 2023
+    arxiv: 2302.05462
+  
+  - paper:
+    title: The antesonic condition for the explosion of core-collapse supernovae - II. Rotation and turbulence
+    authors:
+      - Matthias J. Raives
+      - Todd A. Thompson
+      - Sean M. Couch
+    year: 2021
+    arxiv: 2009.04478
+    ads: 10.1093/mnras/stab286 
+  
+  - paper:
+    title: "The antesonic condition for the explosion of core-collapse supernovae - I. Spherically symmetric polytropic models: stability and wind emergence"
+    authors:
+      - Matthias J. Raives
+      - Sean M. Couch
+      - Johnny P. Greco
+      - Ondřej Pejcha
+      - Todd A. Thompson
+    year: 2018
+    arxiv: 1801.02626
+    ads: 10.1093/mnras/sty2457
+
+coauthor:
+  - paper:
+    title: The early evolution of magnetar rotation - I. Slowly rotating 'normal' magnetars
+    authors:
+      - Tejas Prasanna
+      - Matthew S. B. Coleman
+      - Matthias J. Raives
+      - Todd A. Thompson
+    year: 2022
+    arxiv: 2208.09042
+    ads: 10.1093/mnras/stac2651
+    
+  - paper:
+    title: Accurate, meshless methods for magnetohydrodynamics
+    authors:
+      - Philip F. Hopkins
+      - Matthias J. Raives
+    year: 2016
+    arxiv: 1505.02783
+    ads: 10.1093/mnras/stv2180
+
+talks:
+  - talk:
+    title:
+    location:
+    year:
+

@@ -1,0 +1,11 @@
+{{- define "content" -}}
+
+{{ with .Site.Data.content }}
+  <div class="box">
+  <div class="wrap">
+    {{ range .sections }} {{ partial "section.html" . }} {{ end }}
+  </div>
+  </div>
+{{ end }}
+
+{{- end -}}
