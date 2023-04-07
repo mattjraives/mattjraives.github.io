@@ -7,7 +7,7 @@ sections:
       - heading:
           label: CTAC Postdoctoral Fellowship
           startdate: Sep 2021
-          degree: Carnegie Observatories, Pasadena, CA
+          detail: Carnegie Observatories, Pasadena, CA
 
   - heading: Education
     subsections:
@@ -16,19 +16,18 @@ sections:
           startdate: Aug 2015
           enddate: Aug 2021
           degree: PhD, MSc, Astronomy
-          detail: Dissertation --- the thing
       - heading:
           label: California Institute of Technology
           startdate: Sep 2011
           enddate: June 2015
           degree: BSc, Astrophysics
-          detail: Thesis --- the other thing
           
   - heading: Honors
     subsections:
      - heading:
         label: Dean's Distinguished Fellowship
         year: 2015 - 2016 and 2020 - 2021
+        detail: The Ohio State University
   
   - heading: Teaching Experience
     subsections:
