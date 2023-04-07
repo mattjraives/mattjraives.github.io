@@ -1,6 +1,6 @@
 {{- define "content" -}}
 
-{{ with .Site.Data.content }}
+{{ with .Site.Data.cv }}
   <div class="box">
   <div class="wrap">
     {{ range .sections }} {{ partial "section.html" . }} {{ end }}
