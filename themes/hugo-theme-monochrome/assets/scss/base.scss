@@ -91,6 +91,10 @@ img {
   max-width: 100%;
 }
 
+inline-img {
+  display: inline
+}
+
 input {
   background-color: var(--color-background);
   color: var(--color-text);
@@ -115,6 +119,15 @@ details[open] > summary {
 
 .hidden {
   display: none;
+}
+
+.inline-svg {
+  display: inline-block;
+  height: 2rem;
+  width: 2rem;
+  top: 0.15rem;
+  position: relative;
+  color: #c27a25
 }
 
 @media screen and (min-width: $sm_min_width) {

@@ -12,9 +12,9 @@ title = "Publications"
 url = "/pubs/"
 weight = 2
 
-[[navbar]]
-identifier = "hob"
-name = "Hobbies"
-title = "hobbies"
-url = "/hobbies/"
-weight = 3
+#[[navbar]]
+#identifier = "hob"
+#name = "Hobbies"
+#title = "hobbies"
+#url = "/hobbies/"
+#weight = 3

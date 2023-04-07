@@ -1,5 +1,33 @@
 {{ with (.Scratch.Get "params").footer }}
-<footer>
+<footer>    
+    <div class="brand">
+        <a href="https://github.com/mattjraives">
+            <svg id="github_icon" width="24px" height="24px">
+                {{ partial "fa-icon" "github"}}
+            </svg>
+        </a>
+        <a href="mailto:mraives@carnegiescience.edu">
+            <svg id="mail_icon" width="24px" height="24px">
+                {{ partial "fa-icon" "mail" }}
+            </svg>
+        </a>
+        <a href="https://orcid.org/0000-0002-9619-7615">
+            <svg id="orcid_id" width="24px" height="24px">
+                {{ partial "fa-icon" "orcid" }}
+            </svg>
+        </a>
+        <a href="https://ui.adsabs.harvard.edu/public-libraries/Tdl66a7bSbmUDbbj4_4q3w">
+            <svg id="ads_icon" width="24px" height="24px">
+                {{ partial "fa-icon" "ads" }}
+            </svg>
+        </a>
+        <a href="https://scholar.google.com/citations?user=txXOKZYAAAAJ&hl=en">
+            <svg id="ads_icon" width="24px" height="24px">
+                {{ partial "fa-icon" "google-scholar" }}
+            </svg>
+        </a>
+    </div>
+    
     <article>
         {{- . | safeHTML -}}
     </article>
