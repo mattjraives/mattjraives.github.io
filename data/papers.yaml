@@ -5,7 +5,7 @@ firstauthor:
       - Matthias J. Raives
       - Matthew S. B. Coleman
       - Todd A. Thompson
-    year: Submitted 2023
+    year: Submitted
     arxiv: 2302.05462
   
   - paper:
@@ -31,6 +31,15 @@ firstauthor:
     ads: 10.1093/mnras/sty2457
 
 coauthor:
+  - paper:
+    title: "The early evolution of magnetar rotation -- II. Rapidly rotating magnetars: Implications for Gamma-Ray Bursts and Super Luminous Supernovae"
+    authors:
+      - Tejas Prasanna
+      - Matthew S. B. Coleman
+      - Matthias J. Raives
+      - Todd A. Thompson
+    year: Submitted
+    arxiv: 2305.16412
   - paper:
     title: The early evolution of magnetar rotation - I. Slowly rotating 'normal' magnetars
     authors:
