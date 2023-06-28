@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg196"
+   sodipodi:docname="mail.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs200" />
+  <sodipodi:namedview
+     id="namedview198"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.75488281"
+     inkscape:cx="200.03105"
+     inkscape:cy="223.87581"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg196" />
+  <path
+     id="path256"
+     d="M 256 8 A 248 248 0 0 0 8 256 A 248 248 0 0 0 256 504 A 248 248 0 0 0 504 256 A 248 248 0 0 0 256 8 z M 106.26758 117.78516 L 405.73242 117.78516 C 424.80886 117.78516 440.28516 133.26341 440.28516 152.33984 C 440.28516 163.20981 435.17522 173.43166 426.46484 179.98242 L 269.82227 297.46484 C 261.6158 303.5837 250.3842 303.5837 242.17773 297.46484 L 85.535156 179.98242 C 76.824785 173.43166 71.714844 163.20981 71.714844 152.33984 C 71.714844 133.26341 87.191151 117.78516 106.26758 117.78516 z M 71.714844 198.41016 L 228.35742 315.89258 C 244.77036 328.20227 267.22964 328.20227 283.64258 315.89258 L 440.28516 198.41016 L 440.28516 348.14258 C 440.28516 373.55382 419.62609 394.21484 394.21484 394.21484 L 117.78516 394.21484 C 92.373911 394.21484 71.714844 373.55382 71.714844 348.14258 L 71.714844 198.41016 z " />
+  <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+</svg>
