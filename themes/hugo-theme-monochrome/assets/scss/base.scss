@@ -56,13 +56,6 @@ h6 {
   @include text-lg;
 }
 
-.split-line {
-  // prefixes added to work with html-pdf
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1rem;
-}
-
 .button {
   border: none;
   padding: 2px 4px;
